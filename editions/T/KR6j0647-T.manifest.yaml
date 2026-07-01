@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0647/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0647/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大金剛妙高山樓閣陀羅尼
+  identifiers:
+    krp: KR6j0647
+    cbeta: T21n1415
+    cbeta_old_id: T21n1415
+    authorityid: CA0000615
+    json_key: T1415
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1415.xml
+    old_id: T21n1415
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0647_000-T.yaml, hash: 'sha256:3f44d6c835ad1752278f358dbba285b345f59b8c7611b16399cb4c7c65c0859a'}
+  - {seq: 1, filename: KR6j0647_001-T.yaml, hash: 'sha256:a1355355fcf205fff4aa96f03b97b844b1166a6b1f1587170d38b0383121f128'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0647_000-T.markers.yaml, hash: 'sha256:6d5210374e0fd11a93077341e10a25ab45deb17a710441d82b5fbf9f99346052'}
+  - {seq: 1, role: markers, filename: assets/KR6j0647_001-T.markers.yaml, hash: 'sha256:48c3ebaee45f38723ff22925a638016c425eace7b954498de18b4bb13bb3ca2b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0647_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4104
+  label: 大金剛妙高山樓閣陀羅尼
+  type: juan
+  level: 1
+hash: sha256:6cb8c257068dfa9da9978f4b099487eceb94ab867673f93ea38de60904e2ecaa

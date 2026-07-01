@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0647/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大金剛妙高山樓閣陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1415.xml
+    old_id: T21n1415
+hash: sha256:3f44d6c835ad1752278f358dbba285b345f59b8c7611b16399cb4c7c65c0859a

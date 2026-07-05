@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0647_000.yaml, hash: 'sha256:3f44d6c835ad1752278f358dbba285b345f59b8c7611b16399cb4c7c65c0859a'}
-  - {seq: 1, filename: KR6j0647_001.yaml, hash: 'sha256:576ba77991b16d222110aaac72a587dd19a6100e4257a564043bc0ad90f6e5c2'}
+  - {seq: 1, filename: KR6j0647_001.yaml, hash: 'sha256:a1355355fcf205fff4aa96f03b97b844b1166a6b1f1587170d38b0383121f128'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0647_001.markers.yaml, hash: 'sha256:8320323433e87ea7c61220d9f787833dabdc61ce8ee6efd19e858ac04126d1c6'}
+  - {seq: 0, role: markers, filename: assets/KR6j0647_000.markers.yaml, hash: 'sha256:cbdd39f62c1fa92f6ce35f104cacda482255969326a1d32250667b4080ba0f33'}
+  - {seq: 1, role: markers, filename: assets/KR6j0647_001.markers.yaml, hash: 'sha256:94d62c896ad43b4f1d69b6546881161fef39048abcb65c9cb635522464e5424d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 大金剛妙高山樓閣陀羅尼
   type: juan
   level: 1
-hash: sha256:71ed3c61d98717d949e24efa3af4f99049beea61930d0a184069d6a15c769e2a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e34c31e9dd1b4f8f3886e01be3663f6c27c6c13a57379db60adbdff94c2d4d78
